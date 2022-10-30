@@ -1,1 +1,10 @@
 This is sample file .
+touch .gitignore
+git config --global user.name sarvesh
+git config --global user.email <email>
+git add .
+git commit -m "any comment"
+git status
+create ssh key if not created
+git origin add origin <git project url>
+git push origin master
